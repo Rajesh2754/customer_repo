@@ -10,9 +10,9 @@ name: Project CICD flow
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "Rajesh" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "Rajesh" ]
 
 jobs:
   build:
